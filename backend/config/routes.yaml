@@ -1,0 +1,5 @@
+controllers:
+    resource:
+        path: ../api/hello/
+        namespace: App\Controller\HelloController::index
+    type: attribute
